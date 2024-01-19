@@ -5,6 +5,6 @@ This repository comprises R code and R Markdown documents presenting my interpre
 ## Contents
 
 - `cyclistic_analysis.R`: R script containing the data cleaning, exploration, and analysis code.
-- `case_study.Rmd`: R Markdown document with detailed analysis, visualizations, and key findings.
+- `Cyclistic Bikes Analysis.pdf`: PDF stating detailed steps, analysis, visualizations, and key findings created using R Markdown.
 
 Feel free to explore the code and documentation to understand the insights gained from the Cyclistic bike-share data. 

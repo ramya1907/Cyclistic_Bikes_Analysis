@@ -1,2 +1,10 @@
-# Cyclistic_Bikes_Analysis
-Analyzing Cyclistic bike-share data to understand user behavior, differences between casual riders and annual members, and inform a new marketing strategy. 
+**Cyclistic Bike-Share Analysis**
+
+This repository comprises R code and R Markdown documents presenting my interpretation of the capstone project, a component of the Google Data Analytics Course. The analysis delves into Cyclistic bike-share data, investigating usage patterns, distinctions between casual riders and annual members, and offering insights to guide the formulation of a novel marketing strategy for Cyclistic.
+
+## Contents
+
+- `cyclistic_analysis.R`: R script containing the data cleaning, exploration, and analysis code.
+- `case_study.Rmd`: R Markdown document with detailed analysis, visualizations, and key findings.
+
+Feel free to explore the code and documentation to understand the insights gained from the Cyclistic bike-share data. 
